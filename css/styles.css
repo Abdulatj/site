@@ -1,0 +1,131 @@
+/* .red{
+   
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    
+}
+
+.blue{
+   
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.yellow{
+   
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+} */
+
+
+.top-container{
+    position: relative;
+    background-color:azure;
+    padding-top: 100px;
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5em;
+    color: cadetblue;
+}
+
+p{
+   
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    color: cadetblue;
+}
+
+h3{
+    font-family: 'Merriweather', serif;
+}
+
+.profile-image{
+    width: 200px;
+    margin-top: 50px;
+}
+
+hr{
+    width: 100px;
+    border-style: dotted none none;
+    border-width: 10px;
+    height: 0;
+    color: #eaf6f6;
+   
+}
+
+.skill-row{
+    width: 50%;
+    line-height: 2;
+    margin: 100px auto;
+    text-align: left;
+  
+}
+
+.sport{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+
+.design{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+    
+}
+
+.cook{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+
+.intro{
+    width: 30%;
+    margin: 50px auto;
+    line-height: 2;
+}
+
+.contact-me{
+    width: 40%;
+    margin: 50px auto;
+
+}
+
+.bottom-container{
+   background-color: #66f9f9;
+   padding: 20px 50px; 
+}
+
+a{
+    text-decoration: none;
+    margin: 10px 10px ;
+}
+
+a:hover{
+    color: white;
+}
